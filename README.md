@@ -4,6 +4,16 @@ A template for a web app based on Flask and Sqlite3 with user account handling.
 
 Uses Python3, Sqlite3, Flask, jsonschema, Bootstrap, jQuery, DataTables.
 
+Usage
+
+This is a GitHub template: You need to create your own repo out of this one, and then start developing your app.
+
+In order to add new functionality, you should add modules for your own entities, defining their URL's and logic. Look at the webapp.user module to see how this can be done.
+
+This template provides the basic framweork including user account handling, but you need to code your own entities and the display and edit logic for those.
+
+The code in this repo can run as an app without changes, even though it is a template, but it won't do anything useful.
+
 Installation
 Create your own GitHub repo out of this repo.
 Clone your repo to your own work computer, as usual.
